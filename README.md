@@ -8,7 +8,7 @@ It saves the date on which a timer was created or reset and compares this date t
 Useful for remembering how many days passed since e.g. the last watering of houseplants etc..
 
 ##### Usage:
-To add, set, or delete a timer, press "a", "s", or "d" + ENTER respectively.
+To add, set, delete a timer, or quit press "a", "s", "d", or "q" + ENTER respectively.
 
 ##### Counterfile:
 The added timers are saved in a **counterfile.txt** which is created when quitting the program.
